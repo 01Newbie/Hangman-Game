@@ -1,0 +1,19 @@
+.hangman-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .game-board {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .guess-form input {
+    font-size: 1.5em;
+    margin-right: 10px;
+  }
+  
+  .game-info {
+    margin-top: 20px;
+  }
+  
